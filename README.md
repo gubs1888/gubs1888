@@ -1,4 +1,6 @@
-# Sourabh Paul
+# Hi, This is Sourabh Paul ! 👋
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=50FA7B&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Computer+Science+Student;Full-Stack+Development;Exploring+AI+%26+Machine+Learning" alt="Typing animation" />
